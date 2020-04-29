@@ -1,5 +1,5 @@
-Ben Taylor
-Mini-Project 2: SQL
+/* Ben Taylor
+Mini-Project 2: SQL */
 
 /* Q1: Some of the facilities charge a fee to members, but some do not.
 Please list the names of the facilities that do. */
